@@ -6,7 +6,7 @@ This scavenger hunt consists of a series of riddles that lead from one GitHub re
 
 1. Start at the `start_here.txt` file.
 2. After solving, the answer you get is the name of the next repository. Search it up and solve the next riddle.
-3. You must submit a pull request for each riddle that you solve, explaining how you solved it. _Not every riddle will require coding to solve. You may use online resources._
+3. You must comment on the issue for each repository (except this one). _Not every riddle will require coding to solve. You may use online resources._
 4. Once you reach the last and final repository, check in with an officer!
 
 Happy hacking!
