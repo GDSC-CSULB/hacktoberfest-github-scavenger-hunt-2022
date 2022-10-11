@@ -2,4 +2,4 @@ Problem #1
 
 Decrypt the following code: jgvfkdfnwrehuihvwixq
 
-Hint: Each letter is shifted x times, either left or right with x ≤ 10.
+Hint: Each letter is shifted x times, either left or right with x ≤ 5.
